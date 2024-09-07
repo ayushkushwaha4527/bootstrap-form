@@ -1,0 +1,20 @@
+.col-lg-12{
+    color:red;
+    
+}
+.col-lg-4{
+    color: red;
+}
+hr{
+    border: 2px solid black;
+}
+.col-lg-6{
+    color: red;
+}
+button{
+    background-color: blue;
+    color: white;
+}
+body{ 
+    background-image:linear-gradient(to right,azure,pink);
+}
