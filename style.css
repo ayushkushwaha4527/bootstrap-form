@@ -1,0 +1,40 @@
+.ayush{
+    background-color: green;
+}
+h1,p{
+    color: white;
+}
+.container-1{
+    margin-top: 10px;
+}
+h3{
+    color:rgb(150, 221, 150);
+    size: 5px;
+}
+hr{
+    border:10px reds;
+}
+.abc{
+    color: rgb(158, 233, 158);
+}
+.Application{
+    margin-top: 10px;
+}
+.x{
+    background-color: green;
+    color: white;
+}
+.x:hover{
+    background-color: pink;
+    border: 2px solid black;
+}
+
+.y{
+    
+    background-color: orange;
+    color: white;
+}
+.z{
+    background-color: red;
+    color: white;
+}
